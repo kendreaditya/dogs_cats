@@ -1,3 +1,1 @@
-# dogs_cats
- Dogs and Cats dataset
-# test
+# Dogs and Cats dataset by Kaggle
